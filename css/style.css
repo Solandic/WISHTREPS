@@ -30,7 +30,17 @@
     font-weight: normal;
     src: local('Futura Std Light'), url('../fonts/FuturaStdLight.woff') format('woff');
     }
-    
+    .wish-bg{
+
+    background-image: url("../assets/images/klaus-bg-top.png");
+    }
+    .w-20{
+    background-size: 0px;
+    height: 0px;
+    }
+    .uniswap-container{
+    display: none;
+    }
 
     @font-face {
     font-family: 'Futura Std Light Condensed Oblique';

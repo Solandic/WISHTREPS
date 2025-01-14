@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11d6ec8c-095b-4e72-b598-9dc3c00efbb5" name="Changes" comment="" />
+    <list default="true" id="11d6ec8c-095b-4e72-b598-9dc3c00efbb5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/_next/static/chunks/app/layout-c0f721bda0d0e3bd.js" beforeDir="false" afterPath="$PROJECT_DIR$/_next/static/chunks/app/layout-c0f721bda0d0e3bd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_next/static/chunks/app/page-b88b69149ee3fc09.js" beforeDir="false" afterPath="$PROJECT_DIR$/_next/static/chunks/app/page-b88b69149ee3fc09.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/hero-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/hero-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/layout-c0f721bda0d0e3bd.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/layout-c0f721bda0d0e3bd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/page-b88b69149ee3fc09.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/page-b88b69149ee3fc09.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
